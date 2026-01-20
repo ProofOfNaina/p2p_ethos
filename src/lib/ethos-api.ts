@@ -1,6 +1,6 @@
 // Ethos API Configuration
 const ETHOS_API_CONFIG = {
-  baseUrl: 'https://api.ethos.network/api/v2',
+  baseUrl: 'https://api.ethos.network/api/v2/score/userId',
   clientName: 'ethos-p2p-platform'
 };
 
